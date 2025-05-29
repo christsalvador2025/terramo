@@ -164,7 +164,7 @@ terramo-frontend/
 **Frontend**:
 - Node.js
 - Vite
-- Vue/React (depending on your framework)
+- React
 
 ---
 
