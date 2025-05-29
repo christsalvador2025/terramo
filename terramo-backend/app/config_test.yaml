@@ -1,0 +1,9 @@
+name: "MyApp"
+log:
+  level: "DEBUG"
+  format: "[%(asctime)s] %(levelname)s [%(name)s] %(message)s"
+database:
+  engine: "mysql"
+  dsn: "127.0.0.1:3306/terramo_data"
+  username: "root"
+  password: "yourdbpasswordhere or leave it blank if no pass"
